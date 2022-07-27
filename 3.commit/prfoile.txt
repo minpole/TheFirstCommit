@@ -1,2 +1,2 @@
-email :
-gitID :
+email : minpole727@gmail.com
+gitID : minpole
